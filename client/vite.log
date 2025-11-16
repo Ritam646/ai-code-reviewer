@@ -1,0 +1,13 @@
+nohup: ignoring input
+
+> ai-code-reviewer-client@0.1.0 dev
+> vite --host
+
+[33mThe CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
+Port 5173 is in use, trying another one...
+Port 5174 is in use, trying another one...
+
+  VITE v5.4.21  ready in 194 ms
+
+  ➜  Local:   http://localhost:5175/
+  ➜  Network: http://10.0.2.58:5175/
